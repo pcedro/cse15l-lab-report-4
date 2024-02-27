@@ -18,7 +18,7 @@ Keys pressed:
 7. Edit the code file to fix the failing test
 ![Image](edit.png)
 ```
-Keys pressed: 
+Keys pressed: 6k 6l ce index2<esc>:wq!
 ```
 8. Run the tests, demonstrating that they now succeed
 ![Image](successtest.png)
