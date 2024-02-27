@@ -1,0 +1,32 @@
+# CSE15L Lab Report 4 - Vim
+4. Logging into SSH
+![Image](pcedrossh.png)
+```
+Keys pressed: ssh<space>pcedro@ieng6.ucsd.edu
+As my account is already
+```
+5. Clone your fork of the repository from your Github account (using the SSH URL)
+![Image](clonefork.png)
+```
+Keys pressed: 
+```
+6. Run the tests, demonstrating that they fail
+![Image](failedtest.png)
+```
+Keys pressed: 
+```
+7. Edit the code file to fix the failing test
+![Image](edit.png)
+```
+Keys pressed: 
+```
+8. Run the tests, demonstrating that they now succeed
+![Image](successtest.png)
+```
+Keys pressed: 
+```
+9. Commit and push the resulting change to your Github account (you can pick any commit message!)
+![Image](commit.png)
+```
+Keys pressed: 
+```
