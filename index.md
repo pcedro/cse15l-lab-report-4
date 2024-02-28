@@ -38,6 +38,8 @@ Keys pressed: bash <space> test.sh <enter>
 9. Commit and push the resulting change to your Github account (you can pick any commit message!)
 ![Image](commit.png)
 ```
-Keys pressed: git <space> add <space> . <enter> git <space> commit <space> -m <space> "fixed bug" <enter> git <space> push <enter>
+Keys pressed: git <space> add <space> . <enter>
+git <space> commit <space> -m <space> "fixed bug" <enter>
+ git <space> push <enter>
 ```
 - Here, I used multiple commands to commit and push the change to my Github account. The command "git add" adds a change in the working directory and the dot at the end refers to all files. Next, I did another command to commit the change with a message by doing "git commit -m <message>". Lastly, I did the command git push, which allowed me to push the commited changes to the remote repository in Github.
