@@ -21,13 +21,18 @@ Keys pressed: bash <space> test.sh <enter>
 ```
 Keys pressed: 6k 6l ce index2 <esc> :wq! <enter>
 ```
+In the terminal for vim, I was 6 lines below and 6 lines to the left of the line that I had to modify. Thus, by doing 6k 6l it allowed me to jump right to the i of "index1". The command ce
+
 8. Run the tests, demonstrating that they now succeed
 ![Image](successtest.png)
 ```
 Keys pressed: bash <space> test.sh <enter>
+
 ```
 9. Commit and push the resulting change to your Github account (you can pick any commit message!)
 ![Image](commit.png)
 ```
-Keys pressed: 
+Keys pressed: git <space> add <space> . <enter> git <space> commit <space> -m <space> "fixed bug" <enter> git <space> push <enter>
+
+
 ```
