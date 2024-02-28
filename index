@@ -2,7 +2,7 @@
 4. Logging into SSH
 ![Image](pcedrossh.png)
 ```
-Keys pressed: ssh<space>pcedro@ieng6.ucsd.edu
+Keys pressed: ssh <space> pcedro@ieng6.ucsd.edu <enter>
 As my account is already
 ```
 5. Clone your fork of the repository from your Github account (using the SSH URL)
@@ -18,7 +18,7 @@ Keys pressed:
 7. Edit the code file to fix the failing test
 ![Image](edit.png)
 ```
-Keys pressed: 6k 6l ce index2<esc>:wq!
+Keys pressed: 6k 6l ce index2<esc>:wq!<enter>
 ```
 8. Run the tests, demonstrating that they now succeed
 ![Image](successtest.png)
